@@ -5,3 +5,11 @@
 5. interpreted.
 6. a module, a function body, and a class definition.
 7. #
+8. platform.python_version()
+9. lambda
+10. preferred installer program.
+11. len(), int(), str(), input(), print().
+12. 79 characters.
+13. Python covers what most of the programming languages does for example- Web Development, Data science, Analytics, Android developlem and much more.
+14. to set the path in environment variable. first go to "This PC" right click on "properties" find and click 'Advance System Properties' a pop-up box will be opened click on 'Environment Variable' select  'Path' click edit here paste the path of python installation directorysave exit.
+15. Yes indentation is very strictly followed by python.
