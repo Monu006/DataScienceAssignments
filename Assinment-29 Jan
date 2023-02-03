@@ -1,1 +1,7 @@
-Guido van Rossum developed the python.
+1. Guido van Rossum developed the python.
+2. Python is a multi paradigm lanuage and supports both Object-oriented programming and structured programming.
+3. Yes, Python is a case-sensitive language.
+4. .py is the correct extension of Python. However, i have seen on remote applications (https://colab.research.google.com/) it is .ipynb.
+5. interpreted.
+6. a module, a function body, and a class definition.
+7. #
