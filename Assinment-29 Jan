@@ -3,7 +3,7 @@
 3. Yes, Python is a case-sensitive language.
 4. .py is the correct extension of Python. However, i have seen on remote applications (https://colab.research.google.com/) it is .ipynb.
 5. interpreted.
-6. a module, a function body, and a class definition.
+6. {}
 7. #
 8. platform.python_version()
 9. lambda
